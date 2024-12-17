@@ -2,20 +2,13 @@
 import pytest
 import pandas as pd
 import streamlit as st
+import requests
 
-from code.userbreweries import (
+from code.brewerylocator import (
     save_to_cache,
     load_from_cache,
     create_map,
     cache_file
-) 
-
-from code.breweryapicalls import(
-    get_breweries_by_city, 
-    get_breweries_by_state, 
-    get_breweries_by_type, 
-    autocomplete_breweries, 
-    get_random_brewery
 ) 
 
 def test_save_to_cache():

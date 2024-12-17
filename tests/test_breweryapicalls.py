@@ -11,7 +11,6 @@ from code.breweryapicalls import (
     get_random_brewery,
 )
 
-
 def test_get_brewery_details():
     test_brewery_id = "5128df48-79fc-4f0f-8b52-d06be54d0cec"
     expected_name = "(405) Brewing Co" 

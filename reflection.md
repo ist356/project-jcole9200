@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Student Email:  email
+Student Name:  jamie
+Student Email: jacole05@syr.edu
 
 ## Instructions
 
