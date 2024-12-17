@@ -1,0 +1,21 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,longitude,latitude,phone,website_url,state,street
+7167267a-7a89-448d-8586-9caad8d72bdb,Manor Hill Brewing,micro,4411 Manor Ln,,,Ellicott City,Maryland,21042-6111,United States,,,4109977771,http://www.manorhillbrewing.com,Maryland,4411 Manor Ln
+4e84a8d0-0d52-431e-a57a-da8977625bd2,7 Locks Brewing,micro,12227 Wilkins Ave,,,Rockville,Maryland,20852-1833,United States,,,3018417123,http://www.7locksbrewing.com,Maryland,12227 Wilkins Ave
+9379b79b-63c2-4ce3-9605-f499f7915f7e,"Antietam Brewery,LLC",micro,140 Western Maryland Pkwy Unit G,,,Hagerstown,Maryland,21740-5197,United States,,,3017915915,http://www.antietambrewery.com,Maryland,140 Western Maryland Pkwy Unit G
+724a6296-cdac-4d35-92fd-cc44960010ff,Attaboy Beer,micro,400 Sagner Ave Ste 400,,,Frederick,Maryland,21701-6083,United States,,,4157106459,,Maryland,400 Sagner Ave Ste 400
+6918f40b-ab41-4fd8-bea0-ae8a5ce5664a,B.C. Brewery,micro,10950 Gilroy Rd Ste F,,,Hunt Valley,Maryland,21031-1327,United States,,,4433913847,http://www.bcbrewerymd.com,Maryland,10950 Gilroy Rd Ste F
+f6cc21c0-039d-4257-9869-b168502185d6,Black Flag Brewing Company,micro,9315 Snowden River Pkwy,,,Columbia,Maryland,21046-2091,United States,-76.810364,39.192524,4438645139,http://www.blackflagbrewingco.com,Maryland,9315 Snowden River Pkwy
+a3e3c312-6c4e-4bf1-b096-d1517e6f0bf5,Brawling Bear,micro,15 Fulks Corner Ave,,,Gaithersburg,Maryland,20877-2067,United States,,,2408423272,http://www.brawlingbear.com,Maryland,15 Fulks Corner Ave
+47ce7e5f-74fe-4a8e-8fe0-35ecd8338537,Brookeville Beer Farm,micro,20315 Georgia Ave,,,Brookeville,Maryland,20833-1711,United States,-77.0579247,39.1780888,3012601000,http://www.brookevillebeerfarm.com,Maryland,20315 Georgia Ave
+cd922df7-7e27-4fdd-9beb-a203c859b25f,Bull and Goat Brewery,micro,204 Banjo Ln,,,Centreville,Maryland,21617-1067,United States,,,,http://www.bullandgoatbrewery.com,Maryland,204 Banjo Ln
+90e8f363-3b72-4ca9-bef8-b3a2ab6008df,Burley Oak Craft Brewery,micro,10016 Old Ocean City Blvd,,,Berlin,Maryland,21811-1145,United States,-75.2169864,38.3336448,4104228887,http://www.burleyoak.com,Maryland,10016 Old Ocean City Blvd
+66830819-c0ed-462b-b7c6-5b6006fa7df0,Calvert Brewing Co,micro,150 Adelina Rd,,,Prince Frederick,Maryland,20678-3709,United States,,,4104148486,http://www.calvertbrewingcompany.com,Maryland,150 Adelina Rd
+a440c125-f424-4b18-9adc-27c2965ce6ac,Calvert Brewing Co,micro,15850 Commerce Ct,,,Upper Marlboro,Maryland,20774-7437,United States,,,2402454609,http://calvertbrewingcompany.com,Maryland,15850 Commerce Ct
+b2763258-7b12-4551-b16f-3c9deba2bc7e,Chesepiooc Real Ale Brewery,micro,2408 Crofton Blvd,,,Crofton,Maryland,21114,United States,-76.69804666,39.01687169,4106301579,http://www.brewcrab.com,Maryland,2408 Crofton Blvd
+9b94f17c-c19e-4a58-8621-a0beef7db4cd,Crooked Crab Brewing Company,micro,8251 Telegraph Rd,,,Odenton,Maryland,21113,United States,-76.69482405,39.09729159,4435699187,http://www.cookedcrabbrewing.com,Maryland,8251 Telegraph Rd
+f9be35ca-e823-4321-b7be-837ac5c152a3,Cushwa Brewing Co,micro,10212 Governor Lane Blvd Ste 1012,,,Williamsport,Maryland,21795,United States,,,,http://www.cushwabrewing.com,Maryland,10212 Governor Lane Blvd Ste 1012
+75378a8b-95fc-4a6a-8c7f-b00e4df75d64,Eastern Shore Brewing,micro,605 S Talbot St,,,Saint Michaels,Maryland,21663,United States,-76.2219945,38.78113562,4107458010,http://www.easternshorebrewing.com,Maryland,605 S Talbot St
+44d62e5e-209d-4432-8149-715add60e6d4,Elder Pine Brewing and Blending Co,micro,4200 Sundown Rd,,,Gaithersburg,Maryland,20882,United States,,,,http://www.elderpine.com,Maryland,4200 Sundown Rd
+e5467256-ec72-496e-82ff-8a5bf07bf2c1,Falling Branch Brewery,micro,825 Highland Rd,,,Street,Maryland,21154-1312,United States,-76.3708166,39.66665004,,http://fallingbranchbeer.com,Maryland,825 Highland Rd
+7ef58914-2624-4d11-9db1-5db5b6375c34,Franklins General Store,micro,5123 Baltimore Ave,,,Hyattsville,Maryland,20781-2042,United States,-76.94074114,38.95194399,3019272740,http://Franklinsbrewery.com,Maryland,5123 Baltimore Ave
+fc496ca5-6117-4863-b75c-2da11269792a,Frey's Brewing Company,micro,8601 Mapleville Rd,,,Mount Airy,Maryland,21771-9705,United States,,,3016397146,http://www.freysbrewing.com,Maryland,8601 Mapleville Rd

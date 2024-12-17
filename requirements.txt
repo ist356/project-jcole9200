@@ -1,0 +1,7 @@
+pandas
+streamlit
+pytest
+requests
+folium
+geopandas
+streamlit-folium
