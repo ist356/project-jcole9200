@@ -9,7 +9,7 @@ from code.brewerylocator import (
     load_from_cache,
     create_map,
     cache_file
-) 
+)
 
 def test_save_to_cache():
     test_data = pd.DataFrame({
