@@ -13,8 +13,8 @@ from code.breweryapicalls import (
 
 
 def test_get_brewery_details():
-    test_brewery_id = "1"
-    expected_name = "Buried Acorn Brewery" 
+    test_brewery_id = "5128df48-79fc-4f0f-8b52-d06be54d0cec"
+    expected_name = "(405) Brewing Co" 
     brewery_details = get_brewery_details(test_brewery_id)
     assert brewery_details["name"] == expected_name
 
@@ -55,8 +55,9 @@ def test_autocomplete_breweries():
 
 def test_get_random_brewery():
     random_brewery = get_random_brewery()
-    assert "id" in random_brewery
-
+    assert isinstance(random_brewery, list), "Expected a list of breweries"
+    assert len(random_brewery) > 0, "The list of breweries is empty"
+    assert "id" in random_brewery[0]
 
 if __name__ == "__main__":
     pytest.main()
